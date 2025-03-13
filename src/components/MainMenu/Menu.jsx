@@ -40,7 +40,7 @@ const Navbar = () => {
       </div>
 
       {/* Right Section: Get Started Button */}
-      <button className="px-6 py-2 bg-white text-[#8875F8] font-bold rounded-full border border-black hover:bg-black hover:text-yellow-400 transition ">
+      <button className="px-6 py-2 bg-white text-[#8875F8] font-bold rounded-full border border-black hover:bg-black hover:text-yellow-400 transition opacity-0">
         GET STARTED
       </button>
     </nav>
