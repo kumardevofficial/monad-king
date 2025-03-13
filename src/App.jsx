@@ -1,9 +1,15 @@
 import "./App.css";
+import FirstIm from "./components/AllKingImage/First";
+import Footer from "./components/Footer/Footer";
+
+import Navbar from "./components/MainMenu/Menu";
 
 function App() {
   return (
     <>
-      <h1 class="text-3xl font-bold underline">Hello world!</h1>
+      <Navbar />
+      <FirstIm />
+      <Footer />
     </>
   );
 }
