@@ -52,7 +52,7 @@ const Footer = () => {
         </div>
 
         {/* Newsletter Subscription */}
-        <div>
+        <div className="opacity-0">
           <h3 className="text-lg font-bold">SUBSCRIBE OUR NEWSLETTER</h3>
           <div className="mt-3 flex">
             <input
